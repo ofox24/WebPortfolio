@@ -2,23 +2,23 @@ import { motion } from "framer-motion";
 
 const projects = [
   {
-    title: "Sports Analytics Dashboard",
+    title: "Fantasy Football Pick 5",
     description:
-      "Interactive dashboard analyzing MLB stadium factors (wind, elevation, temp) vs home run rates.",
-    stack: ["React", "Python", "Data Viz"],
+      "Daily Fantasy Draft Simulator built with React and Python, allowing users to practice drafting strategies and analyze player performance.",
+    stack: ["React", "Python"],
     links: {
       github: "https://github.com/ofox24",
       live: null,
     },
   },
   {
-    title: "C-Minus Compiler",
+    title: "PokeMahn",
     description:
       "Compiler project with scanner + parser and JVM-compatible code generation (course project).",
-    stack: ["Java", "JFlex", "jacc", "Compilers"],
+    stack: ["Godot", "C#"],
     links: {
       github: "https://github.com/ofox24",
-      live: null,
+      live: "https://github.com/ofox24/PokeMahn",
     },
   },
   {
