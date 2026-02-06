@@ -14,7 +14,7 @@ const projects = [
   {
     title: "PokeMahn",
     description:
-      "Compiler project with scanner + parser and JVM-compatible code generation (course project).",
+      "A Pokemon-themed game built with Godot and C#, capturing the essence of the franchise.",
     stack: ["Godot", "C#"],
     links: {
       github: "https://github.com/ofox24",
