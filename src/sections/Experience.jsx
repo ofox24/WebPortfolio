@@ -8,9 +8,13 @@ export default function Experience() {
           <h3 className="text-lg font-semibold">Villanova Software Engineers</h3>
           <p className="text-slate-600 italic">Vice President (October 2024 - Present)</p>
           <ul className="mt-3 list-disc pl-5 space-y-1 text-slate-800">
-            <li>Moderated and monitored user interactions for 10,000+ active users.</li>
-            <li>Communicated with users and helped with bug fixes.</li>
-            <li>Used personalized dashboard to track response time and user satisfaction.</li>
+            <li>Co-founded and scaled a 20+ person org delivering full-stack products for startups; set up cross-functional teams and the dev workflows that kept delivery predictable.
+Led React/Node.js/PostgreSQL build and production rollout of a web app serving 1,000+ users; coordinated sprints and architecture choices to ship on time.
+Mentored 10+ junior devs via reviews and pair programming; introduced Git flow, debugging habits, and frontend patterns to speed their ramp-up.
+
+</li>
+            <li>Led React/Node.js/PostgreSQL build and production rollout of a web app serving 1,000+ users; coordinated sprints and architecture choices to ship on time.</li>
+            <li>Mentored 10+ junior devs via reviews and pair programming; introduced Git flow, debugging habits, and frontend patterns to speed their ramp-up.</li>
           </ul>
         </div>
 
