@@ -9,8 +9,7 @@ export default function Experience() {
           <p className="text-slate-600 italic">Vice President (October 2024 - Present)</p>
           <ul className="mt-3 list-disc pl-5 space-y-1 text-slate-800">
             <li>Co-founded and scaled a 20+ person org delivering full-stack products for startups; set up cross-functional teams and the dev workflows that kept delivery predictable.
-Led React/Node.js/PostgreSQL build and production rollout of a web app serving 1,000+ users; coordinated sprints and architecture choices to ship on time.
-Mentored 10+ junior devs via reviews and pair programming; introduced Git flow, debugging habits, and frontend patterns to speed their ramp-up.
+
 
 </li>
             <li>Led React/Node.js/PostgreSQL build and production rollout of a web app serving 1,000+ users; coordinated sprints and architecture choices to ship on time.</li>
