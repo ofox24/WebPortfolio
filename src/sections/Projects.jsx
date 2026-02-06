@@ -28,7 +28,7 @@ const projects = [
     stack: ["React", "Tailwind", "Vercel"],
     links: {
       github: "https://github.com/ofox24",
-      live: null,
+      live: "https://github.com/ofox24/WebPortfolio",
     },
   },
 ];
