@@ -3,7 +3,7 @@ import react from '@vitejs/plugin-react'
 
 // https://vite.dev/config/
 export default defineConfig({
-  // Base path for Vercel deployment (use '/' for root deployment)
-  base: '/',
+  // Use relative asset paths so the site (and PDF) work when hosted from a subfolder (e.g., GitHub Pages)
+  base: './',
   plugins: [react()],
 })
