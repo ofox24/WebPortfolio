@@ -7,10 +7,10 @@ export default function Education() {
         <div>
           <h3 className="text-lg font-semibold">Villanova University, Villanova, PA</h3>
           <p className="text-slate-800">
-            <span className="font-semibold">BS, Computer Science</span> | GPA: 3.82/4.0 (Aug 2022 - Jun 2026)
+            <span className="font-semibold">BS, Computer Science</span> | GPA: 3.72/4.0 (Aug 2022 - Jun 2026)
           </p>
           <p className="text-slate-700">
-            Activities: Software Development Society, Programming Team, Sports Analytics Club
+            Activities: Villanova Software Engineers, Programming Team, Sports Analytics Club
           </p>
         </div>
 
