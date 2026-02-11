@@ -1,5 +1,4 @@
 import { useEffect, useState } from "react";
-import resumePdf from "../assets/OwenFox2026Resume.pdf";
 
 const links = [
   { href: "#intro", label: "Home" },
@@ -54,7 +53,7 @@ export default function Navbar() {
 
         <div className="flex items-center gap-2">
           <a
-            href={resumePdf}
+            href="/resume.pdf"
             target="_blank"
             rel="noreferrer"
             className="hidden sm:inline-flex rounded-xl border border-slate-200 px-3 py-1.5 text-sm font-semibold hover:bg-slate-100 dark:border-slate-800 dark:hover:bg-slate-900 transition"
