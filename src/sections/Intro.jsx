@@ -13,7 +13,7 @@ export default function Intro() {
           className="md:col-span-2"
         >
           <p className="text-sm font-semibold text-slate-600 dark:text-slate-400">
-            Computer Science @ Villanova • Full-stack SWE
+            Computer Science @ Villanova • Aspiring Full-stack SWE
           </p>
 
           <h1 className="mt-3 text-4xl md:text-5xl font-extrabold tracking-tight">
