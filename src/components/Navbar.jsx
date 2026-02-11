@@ -10,7 +10,8 @@ const links = [
 ];
 
 export default function Navbar() {
-  const resumeUrl = `${import.meta.env.BASE_URL}OwenFox2026Resume.pdf`;
+  // Use a path relative to the current site root so it works on subpath deployments (e.g., GitHub Pages)
+  const resumeUrl = "OwenFox2026Resume.pdf";
   const [isDark, setIsDark] = useState(false);
 
   useEffect(() => {
