@@ -8,12 +8,12 @@ export default function Experience() {
           <h3 className="text-lg font-semibold">Villanova Software Engineers</h3>
           <p className="text-slate-600 italic">Vice President (October 2024 - Present)</p>
           <ul className="mt-3 list-disc pl-5 space-y-1 text-slate-800">
-            <li>Co-founded and scaled a 20+ person org delivering full-stack products for startups; set up cross-functional teams and the dev workflows that kept delivery predictable.
+            <li>Serve as Vice President of a 20+ member student engineering organization building full-stack applications for startup clients, leading frontend development and coordinating closely with backend, design, and client-facing team
 
 
 </li>
-            <li>Led React/Node.js/PostgreSQL build and production rollout of a web app serving 1,000+ users; coordinated sprints and architecture choices to ship on time.</li>
-            <li>Mentored 10+ junior devs via reviews and pair programming; introduced Git flow, debugging habits, and frontend patterns to speed their ramp-up.</li>
+            <li>Actively contributing to the design and frontend implementation of the VIRS Writing Challenge, building start/stop timer persistence, EST-based daily resets, streak validation rules, and role-based UI flows using React, FastAPI, Firebase Authentication, and PostgreSQL</li>
+            <li>Mentor 10+ junior members through weekly code reviews and collaborative projects, reinforcing best practices in Git workflows, debugging, and frontend architecture to improve code quality and accelerate onboarding</li>
           </ul>
         </div>
 
