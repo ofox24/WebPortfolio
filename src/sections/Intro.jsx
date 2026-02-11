@@ -2,8 +2,6 @@ import { motion } from "framer-motion";
 import profileImg from "../assets/IMG_8339.jpeg";
 
 export default function Intro() {
-  // Relative path keeps the link working when the site is served from a subdirectory
-  const resumeUrl = "OwenFox2026Resume.pdf";
   return (
     <section id="intro" className="py-16">
       <div className="grid grid-cols-1 md:grid-cols-3 gap-10 items-center">
@@ -34,7 +32,7 @@ export default function Intro() {
               View Projects
             </a>
             <a
-              href={resumeUrl}
+              href="/OwenFox2026Resume.pdf"
               target="_blank"
               rel="noreferrer"
               className="rounded-2xl border border-slate-200 px-5 py-2.5 font-semibold hover:bg-slate-100 transition dark:border-slate-800 dark:hover:bg-slate-900"
