@@ -1,6 +1,5 @@
 import { motion } from "framer-motion";
 import profileImg from "../assets/IMG_8339.jpeg";
-import resumePdf from "../assets/OwenFox2026Resume.pdf";
 
 export default function Intro() {
   return (
@@ -33,7 +32,7 @@ export default function Intro() {
               View Projects
             </a>
             <a
-              href={resumePdf}
+              href="/OwenFox2026Resume.pdf"
               target="_blank"
               rel="noreferrer"
               className="rounded-2xl border border-slate-200 px-5 py-2.5 font-semibold hover:bg-slate-100 transition dark:border-slate-800 dark:hover:bg-slate-900"
