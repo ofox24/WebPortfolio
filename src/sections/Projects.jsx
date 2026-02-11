@@ -2,10 +2,10 @@ import { motion } from "framer-motion";
 
 const projects = [
   {
-    title: "Fantasy Football Pick 5",
+    title: "Bullpen Engine",
     description:
-      "Daily Fantasy Draft Simulator built with React and Python, allowing users to practice drafting strategies and analyze player performance.",
-    stack: ["React", "Python"],
+      "Bullpen Chaos Engine is a full-stack web application that helps analyze MLB bullpen management decisions using Monte Carlo simulation. ",
+    stack: ["TypeScript", "Next.js", "PostgreSQL", "Prisma", "Docker"],
     links: {
       github: "https://github.com/ofox24",
       live: null,
