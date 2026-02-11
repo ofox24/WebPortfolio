@@ -10,6 +10,7 @@ const links = [
 ];
 
 export default function Navbar() {
+  const resumeUrl = `${import.meta.env.BASE_URL}OwenFox2026Resume.pdf`;
   const [isDark, setIsDark] = useState(false);
 
   useEffect(() => {
@@ -53,7 +54,7 @@ export default function Navbar() {
 
         <div className="flex items-center gap-2">
           <a
-            href="/OwenFox2026Resume.pdf"
+            href={resumeUrl}
             target="_blank"
             rel="noreferrer"
             className="hidden sm:inline-flex rounded-xl border border-slate-200 px-3 py-1.5 text-sm font-semibold hover:bg-slate-100 dark:border-slate-800 dark:hover:bg-slate-900 transition"
