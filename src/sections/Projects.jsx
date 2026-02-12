@@ -8,7 +8,7 @@ const projects = [
     stack: ["TypeScript", "Next.js", "PostgreSQL", "Prisma", "Docker"],
     links: {
       github: "https://github.com/ofox24",
-      live: null,
+      live: "https://bullpen-engine.vercel.app/",
     },
   },
   {
