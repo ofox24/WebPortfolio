@@ -18,7 +18,7 @@ const projects = [
     stack: ["Godot", "C#"],
     links: {
       github: "https://github.com/ofox24",
-      live: "https://github.com/ofox24/PokeMahn",
+      ReadMe: "https://github.com/ofox24/PokeMahn",
     },
   },
   {
@@ -28,7 +28,7 @@ const projects = [
     stack: ["React", "Tailwind", "Vercel"],
     links: {
       github: "https://github.com/ofox24",
-      live: "https://github.com/ofox24/WebPortfolio",
+    
     },
   },
 ];
