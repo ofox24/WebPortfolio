@@ -95,7 +95,7 @@ export default function Projects() {
               >
                 GitHub
               </a>
-              {p.links.live ? (
+              {p.links.live && (
                 <a
                   href={p.links.live}
                   target="_blank"
@@ -104,10 +104,6 @@ export default function Projects() {
                 >
                   Live
                 </a>
-              ) : (
-                <span className="px-3 py-2 text-slate-500 dark:text-slate-500">
-                  Live link soon
-                </span>
               )}
             </div>
           </motion.article>
