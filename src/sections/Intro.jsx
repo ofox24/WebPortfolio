@@ -32,7 +32,7 @@ export default function Intro() {
               View Projects
             </a>
             <a
-              href="/resume.pdf"
+              href={`${import.meta.env.BASE_URL}OwenFoxResume.pdf`}
               target="_blank"
               rel="noreferrer"
               className="rounded-2xl border border-slate-200 px-5 py-2.5 font-semibold hover:bg-slate-100 transition dark:border-slate-800 dark:hover:bg-slate-900"
